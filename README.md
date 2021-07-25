@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rampluto, I am a student at National Institute of Technology Karnataka Surathkal. I am current in 3rd year of my B.tech.
+- 👋 Hi, I’m Ram Janam Yadav, I am a final year student at National Institute of Technology Karnataka Surathkal.
 - 👀 I’m interested in do a lot of tech things including software development to electronics and automated projects
 - 🌱 I’m currently learning python machine learning and opencv
 - 💞️ I’m looking to collaborate on automated projects involving python,opencv,ml etc
