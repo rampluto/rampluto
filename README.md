@@ -10,7 +10,7 @@
 (https://github.com/rampluto/github-readme-stats) github stats
 - --->
 - Top Languages Used
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rampluto)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rampluto&layout=compact)
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=rampluto&show_icons=True" />
