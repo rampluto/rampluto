@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ram Janam Yadav, I am a final year student at National Institute of Technology Karnataka Surathkal.
+- 👋 Hi, I’m Ram Janam Yadav, I studied at National Institute of Technology Karnataka Surathkal.
 - 👀 I’m interested to do a lot of tech things including software development to electronics and automated projects
 - 🌱 I’m currently learning python machine learning and opencv
 - 💞️ I’m looking to collaborate on automated projects involving python,opencv,ml etc
