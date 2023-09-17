@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Ram Janam Yadav, I studied at National Institute of Technology Karnataka Surathkal.
-- 👀 I’m interested to do a lot of tech things including software development to electronics and automated projects
-- 🌱 I’m currently learning python machine learning and opencv
-- 💞️ I’m looking to collaborate on automated projects involving python,opencv,ml etc
+- Currenlty I work at samsung semiconductor as an engineer
+- 👀 I’m interested in doing a lot of tech things including software development to machine learning & reinforcement learning projects
+- 🌱 I’m currently learning machine learning and artificial intelligence to solve real world problems
+- 💞️ I’m looking to collaborate on automated projects involving python,ml,optimization problem etc
 - 📫 How to reach me? drop a mail at ramjanamjnvj1972@gmail.com
 
 -  🎉🎉 My Github Stats
