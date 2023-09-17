@@ -1,17 +1,17 @@
-- 👋 Hi, I’m Ram Janam Yadav, I studied at National Institute of Technology Karnataka Surathkal.
-- Currenlty I work at samsung semiconductor as an engineer
-- 👀 I’m interested in doing a lot of tech things including software development to machine learning & reinforcement learning projects
-- 🌱 I’m currently learning machine learning and artificial intelligence to solve real world problems
-- 💞️ I’m looking to collaborate on automated projects involving python,ml,optimization problem etc
+- 👋 Hi, I’m Ram Janam Yadav, I studied at the National Institute of Technology Karnataka Surathkal.
+- Currently, I work at Samsung Semiconductor as an engineer
+- 👀 I’m interested in doing a lot of tech things including software development machine learning & reinforcement learning projects
+- 🌱 I’m currently learning machine learning and artificial intelligence to solve real-world problems
+- 💞️ I’m looking to collaborate on projects involving Python, ml, optimization problems, etc
 - 📫 How to reach me? drop a mail at ramjanamjnvj1972@gmail.com
 
 -  🎉🎉 My Github Stats
 - ![Ram Janam's GitHub stats](https://github-readme-stats.vercel.app/api?username=rampluto&show_icons=true)
 <!---
-(https://github.com/rampluto/github-readme-stats) github stats
+(https://github.com/rampluto/github-readme-stats) GitHub stats
 - --->
 - Top Languages Used
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rampluto&layout=compact)
+-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rampluto&layout=compact)
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=rampluto&show_icons=True" />
